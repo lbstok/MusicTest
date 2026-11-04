@@ -15,6 +15,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="RESTMusic">
+      <HintPath>..\..\RESTMusic\RESTMusic\bin\Debug\net10.0\RESTMusic.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 

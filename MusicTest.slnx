@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="MusicTest/MusicTest.csproj" />
+  <Project Path="MusicTestReal/MusicTestReal.csproj" Id="5dfb99f0-56d3-4e4b-8add-a490bd5436c1" />
+  <Project Path="nunit/SeleniumTest.csproj" Id="fc3239c6-fbf7-4f38-bd9c-1968e989f18d" />
 </Solution>
